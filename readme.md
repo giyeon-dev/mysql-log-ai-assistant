@@ -36,6 +36,15 @@ It reflects my interest in building tools that bridge AI capabilities with real 
 
 ---
 
+## 📸 Screenshots
+
+| Log Upload | AI Analysis Result | RAG Answer |
+|------------|--------------------|------------|
+| ![](./screenshots/upload.png) | ![](./screenshots/analysis_result.png) | ![](./screenshots/rag_response.png) |
+
+
+___
+
 ## 🛠️ Getting Started
 
 ### 1. Clone the repository
